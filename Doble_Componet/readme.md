@@ -1,7 +1,4 @@
 # Doble Component
-Un juego realizado con https://micetf.fr/symbole-commun/ , inspirado en [Dooble](https://fr.wikipedia.org/wiki/Dobble)
-
-A game made with https://micetf.fr/symbole-commun/ , inspired in [Dooble](https://fr.wikipedia.org/wiki/Dobble)
 
 ![Tarjeta](https://github.com/lobotic/Games/blob/master/Doble_Componet/Tarjeta.png)
 
@@ -18,3 +15,9 @@ Hay diferentes formas de jugar, se recomienda ver las instrucciones del juego or
 
 ## Descarga
 [Enlace](https://github.com/lobotic/Games/blob/master/Doble_Componet/Doble_Components.pdf)
+
+## Créditos y Licencia
+Este juego se ha realizado con https://micetf.fr/symbole-commun/ , inspirado en [Dooble](https://fr.wikipedia.org/wiki/Dobble)
+This game has been made with https://micetf.fr/symbole-commun/ , inspired in [Dooble](https://fr.wikipedia.org/wiki/Dobble)
+
+Licencia CC Reconocimiento 4.0 (CC BY 4.0) 
