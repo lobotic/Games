@@ -1,7 +1,10 @@
 # Doble Component
 Un juego realizado con https://micetf.fr/symbole-commun/ , inspirado en [Dooble](https://fr.wikipedia.org/wiki/Dobble)
+
 A game made with https://micetf.fr/symbole-commun/ , inspired in [Dooble](https://fr.wikipedia.org/wiki/Dobble)
-![Tarjeta](https://github.com/lobotic/Games/blob/master/Doble_Componet/Tarjeta.gif)
+
+![Tarjeta](https://github.com/lobotic/Games/blob/master/Doble_Componet/Tarjeta.png)
+
 ## Las  tarjetas (The Cards)
 El juego tiene 31 tarjetas con símbolos de componentes electrónicos en cada una. Todas las tarjetas son diferentes, y entre dos tarjetas sólo se repetirá un símbolo en las dos. El objetivo del juego es descubrir cuál es ese símbolo y decirlo.
 
